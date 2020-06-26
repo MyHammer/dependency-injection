@@ -259,6 +259,7 @@
       <xsd:enumeration value="expression" />
       <xsd:enumeration value="string" />
       <xsd:enumeration value="constant" />
+      <xsd:enumeration value="binary" />
       <xsd:enumeration value="iterator" />
       <xsd:enumeration value="service_locator" />
       <xsd:enumeration value="tagged" />
